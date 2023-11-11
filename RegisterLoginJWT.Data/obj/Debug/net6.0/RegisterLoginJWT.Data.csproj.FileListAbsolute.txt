@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\bin\Debug\net6.0\RegisterLoginJWT.Data.deps.json
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\bin\Debug\net6.0\RegisterLoginJWT.Data.runtimeconfig.json
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\bin\Debug\net6.0\RegisterLoginJWT.Data.dll
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\bin\Debug\net6.0\RegisterLoginJWT.Data.pdb
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\bin\Debug\net6.0\RegisterLoginJWT.Model.dll
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\bin\Debug\net6.0\RegisterLoginJWT.Model.pdb
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\obj\Debug\net6.0\RegisterLoginJWT.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\obj\Debug\net6.0\RegisterLoginJWT.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\obj\Debug\net6.0\RegisterLoginJWT.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\obj\Debug\net6.0\RegisterLoginJWT.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\obj\Debug\net6.0\RegisterLoginJWT.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\obj\Debug\net6.0\RegisterLoginJWT.Data.csproj.CopyComplete
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\obj\Debug\net6.0\RegisterLoginJWT.Data.dll
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\obj\Debug\net6.0\refint\RegisterLoginJWT.Data.dll
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\obj\Debug\net6.0\RegisterLoginJWT.Data.pdb
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\obj\Debug\net6.0\RegisterLoginJWT.Data.genruntimeconfig.cache
+C:\Users\User\Desktop\Practica C#\JWT\RegisterLoginJWT.Data\obj\Debug\net6.0\ref\RegisterLoginJWT.Data.dll

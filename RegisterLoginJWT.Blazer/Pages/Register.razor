@@ -1,0 +1,36 @@
+﻿@page "/register"
+
+@inject IUserSevices userServices
+
+<h3>Register</h3>
+
+@if (!string.IsNullOrEmpty(registrationMessage))
+{
+    <p>@registrationMessage</p>
+}
+
+<form>
+    <label for="userName">Nombre de Usuario:</label>
+    <input type="text" id="userName"  @bind="registerUserDTO.UserName"/>
+    <label for="password">Contraseña:</label>
+    <input type="password" id="password" @bind="registerUserDTO.Password" />
+    <input type="button" value="Enviar" @onclick="RegisterUser" />
+</form>
+
+
+@code {
+    private RegisterUserDTO registerUserDTO = new RegisterUserDTO();
+    private string registrationMessage = "";
+    private async Task RegisterUser()
+    {
+        try
+        {
+            var result = await userServices.RegisterUser(registerUserDTO);
+            registrationMessage = "Registro existoso";
+        }
+        catch(Exception ex)
+        {
+            registrationMessage = $"Error al registrar: {ex.Message}";
+        }
+    }
+}

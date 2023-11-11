@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DZVctaDQ8sl/AsxOZGqw4Zi8LpMwfKqpBYp1LZILO9c=",
+  "Source": "RegisterLoginJWT.API",
+  "BasePath": "_content/RegisterLoginJWT.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
