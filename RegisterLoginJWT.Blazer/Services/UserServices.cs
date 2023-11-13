@@ -17,6 +17,8 @@ namespace RegisterLoginJWT.Blazer.Services
             _clientFactory = clientFactory;
         }
 
+
+
         public async Task<LoginResultDTO> Login(string userName, string password)
         {
             var client = _clientFactory.CreateClient("BackEnd");
@@ -47,8 +49,5 @@ namespace RegisterLoginJWT.Blazer.Services
             }
             throw new Exception(response.RequestMessage.ToString());
         }
-        
-        
-            
     }
 }

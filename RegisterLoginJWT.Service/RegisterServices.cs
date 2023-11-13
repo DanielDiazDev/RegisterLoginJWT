@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using Microsoft.EntityFrameworkCore;
 using RegisterLoginJWT.Data.Repositories.Interfaces;
 using RegisterLoginJWT.Model;
 using RegisterLoginJWT.Model.DTOs;
@@ -36,7 +35,5 @@ namespace RegisterLoginJWT.Service
             _ = await _unitOfWork.Save();
             return _mapper.Map<LoginResultDTO>(user);
         }
-
-        
     }
 }

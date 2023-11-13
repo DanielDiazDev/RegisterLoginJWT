@@ -16,7 +16,6 @@ namespace RegisterLoginJWT.Service
             services.AddScoped<IRegisterServices, RegisterServices>();
             services.AddScoped<ILoginServices, LoginServices>();
 
-
             return services;
         }
     }

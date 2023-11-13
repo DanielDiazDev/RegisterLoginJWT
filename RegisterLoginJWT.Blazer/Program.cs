@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using RegisterLoginJWT.Blazer;
@@ -11,8 +12,6 @@ builder.Services.AddHttpClient("BackEnd", client =>
 {
     client.BaseAddress = new Uri("https://localhost:7175/");
 });
-
-//builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 builder.Services.AddScoped<IUserSevices, UserServices>();
-
+builder.Services.AddAuthorizationCore();
 await builder.Build().RunAsync();

@@ -38,7 +38,7 @@ namespace RegisterLoginJWT.Service
                 Token = token
             };
 
-            return loginResultDTO;    //_mapper.Map<LoginResultDTO>(user);
+            return loginResultDTO;    
         }
         private string GenerateJwtToken(User user)
         {
@@ -53,9 +53,8 @@ namespace RegisterLoginJWT.Service
                 {
                 new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
                 new Claim(ClaimTypes.Name, user.UserName),
-                    // Puedes agregar más claims según sea necesario
                 },
-                expires: DateTime.UtcNow.AddMinutes(1),  // Ajusta el tiempo de expiración según tus necesidades
+                expires: DateTime.UtcNow.AddMinutes(1),  
                 signingCredentials: credentials
             );
 

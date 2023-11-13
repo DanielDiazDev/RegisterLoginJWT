@@ -1,5 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using RegisterLoginJWT.Model;
 using RegisterLoginJWT.Model.DTOs;
 using RegisterLoginJWT.Service.Interfaces;
 
@@ -79,4 +82,5 @@ namespace RegisterLoginJWT.API.Controllers
             }
         }
     }
+
 }

@@ -21,8 +21,6 @@ namespace RegisterLoginJWT.Data.Repositories
         public async Task<int> Save()
             => await _context.SaveChangesAsync();
 
-       
-
         public void Dispose()
         {
             _context.Dispose();

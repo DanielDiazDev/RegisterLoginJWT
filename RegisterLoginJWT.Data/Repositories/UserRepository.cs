@@ -1,10 +1,5 @@
 ﻿using RegisterLoginJWT.Data.Repositories.Interfaces;
 using RegisterLoginJWT.Model;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RegisterLoginJWT.Data.Repositories
 {

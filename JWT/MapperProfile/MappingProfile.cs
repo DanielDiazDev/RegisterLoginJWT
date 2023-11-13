@@ -8,7 +8,6 @@ namespace RegisterLoginJWT.API.MapperProfile
     {
         public MappingProfile() 
         {
-           // CreateMap<User, RegisterUserDTO>().ReverseMap();
             CreateMap<User, LoginResultDTO>().ReverseMap();
         }
     }

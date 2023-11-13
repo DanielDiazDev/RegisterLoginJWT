@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ipyXhBX9JeCm7TtFddpzQOtY2xV0YbOWEqOcrqaQ1ss=",
+  "Hash": "kXlu0LVD8vkSOEDyvwsPYf8hh9euwbBSeAUT82bE3R8=",
   "Source": "RegisterLoginJWT.Blazer",
   "BasePath": "/",
   "Mode": "Root",
@@ -184,7 +184,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.19\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.24\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.24\\lib\\net6.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -201,7 +218,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.19\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.24\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -255,6 +272,57 @@
       "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.19\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Abstractions.dll",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.dll",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.dll"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Features.dll",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Features.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Features.dll"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
       "SourceId": "RegisterLoginJWT.Blazer",
       "SourceType": "Computed",
@@ -269,7 +337,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.19\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.24\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.WebUtilities.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.WebUtilities.dll"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -510,6 +595,23 @@
       "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.dll"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.ObjectPool.dll",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.ObjectPool.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\lib\\netstandard2.0\\Microsoft.Extensions.ObjectPool.dll"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
       "SourceId": "RegisterLoginJWT.Blazer",
       "SourceType": "Computed",
@@ -576,6 +678,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.19\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Net.Http.Headers.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\lib\\netstandard2.0\\Microsoft.Net.Http.Headers.dll"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
@@ -3944,6 +4063,23 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Claims.dll"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\7CtGIlyS.gz",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\7MhYoW26.gz",
       "SourceId": "RegisterLoginJWT.Blazer",
       "SourceType": "Computed",
@@ -4180,6 +4316,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.CoreLib.dll"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\AGLoHJpP.gz",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\AjbE+hRy.gz",
@@ -4743,6 +4896,23 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Formatters.dll"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\fkgh+R6p.gz",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Features.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Features.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Features.dll"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\FL9SzTcY.gz",
       "SourceId": "RegisterLoginJWT.Blazer",
       "SourceType": "Computed",
@@ -5015,6 +5185,23 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XPath.XDocument.dll"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\igdKHdI+.gz",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\ihdJ3kzI.gz",
       "SourceId": "RegisterLoginJWT.Blazer",
       "SourceType": "Computed",
@@ -5132,6 +5319,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.dll"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\jPs9ORV1.gz",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\jtvYgtdr.gz",
@@ -5763,6 +5967,23 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\pmUXx22j.gz",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.ObjectPool.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.ObjectPool.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.ObjectPool.dll"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\PNZgFueE.gz",
       "SourceId": "RegisterLoginJWT.Blazer",
       "SourceType": "Computed",
@@ -5831,23 +6052,6 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Debug.dll"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\QArW6e+D.gz",
-      "SourceId": "RegisterLoginJWT.Blazer",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\qkDvuJb7.gz",
       "SourceId": "RegisterLoginJWT.Blazer",
       "SourceType": "Computed",
@@ -5914,6 +6118,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Uri.dll"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\Qxj81nY3.gz",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.WebUtilities.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\r18bdHma.gz",
@@ -6018,23 +6239,6 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.dll"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\s4FS3+cI.gz",
-      "SourceId": "RegisterLoginJWT.Blazer",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\SblLT5Zq.gz",
       "SourceId": "RegisterLoginJWT.Blazer",
       "SourceType": "Computed",
@@ -6067,6 +6271,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.dll"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\sLI8rz9R.gz",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.dll"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\Sqwpyy8a.gz",
@@ -6460,23 +6681,6 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Contracts.dll"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\vb9jpv10.gz",
-      "SourceId": "RegisterLoginJWT.Blazer",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\vn68DyOH.gz",
       "SourceId": "RegisterLoginJWT.Blazer",
       "SourceType": "Computed",
@@ -6715,6 +6919,23 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Ping.dll"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\Xgwj610F.gz",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\XtMIeSyC.gz",
       "SourceId": "RegisterLoginJWT.Blazer",
       "SourceType": "Computed",
@@ -6917,6 +7138,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Data.Common.dll"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\ZstXcNAi.gz",
+      "SourceId": "RegisterLoginJWT.Blazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Net.Http.Headers.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Practica C#\\JWT\\RegisterLoginJWT.Blazer\\obj\\Debug\\net6.0\\build-gz\\zv4IuVZr.gz",

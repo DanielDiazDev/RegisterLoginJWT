@@ -13,6 +13,5 @@ namespace RegisterLoginJWT.Data.Repositories.Interfaces
         Task<bool> Add(User user);
         Task<User> Get(string userName, string password);
         bool UserExist(string username);
-       
     }
 }

@@ -6,5 +6,6 @@ namespace RegisterLoginJWT.Blazer.Services.Interfaces
     {
         Task<LoginResultDTO> RegisterUser(RegisterUserDTO user);
         Task<LoginResultDTO> Login(string userName, string password);
+        
     }
 }
